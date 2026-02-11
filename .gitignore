@@ -1,0 +1,16 @@
+# MCP configuration with tokens
+.mcp.json
+
+# Claude Code settings
+.claude/
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
